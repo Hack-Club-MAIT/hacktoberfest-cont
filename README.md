@@ -9,3 +9,5 @@ Step 1: Open this link: https://github.com/Hack-Club-MAIT/hacktoberfest-cont/
 Step 2: Star and Fork this repository. 
 
 Step 3: Open the url.
+
+Step 4: hooray!.
