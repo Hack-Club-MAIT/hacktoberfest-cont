@@ -1,5 +1,4 @@
-# Lorem Ipsum
-
+# Hack Club MAIT Hacktoberfest Contest
 Follow these steps to open and successful PR and earn swags.!!!
 
 Sign up on the following link: https://hacktoberfest.digitalocean.com
